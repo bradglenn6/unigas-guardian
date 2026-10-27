@@ -1,0 +1,12 @@
+﻿{
+  "name": "zerolabz-guardian-service",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@story-protocol/core-sdk": "^1.4.4",
+    "viem": "^2.21.0"
+  }
+}

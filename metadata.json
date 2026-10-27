@@ -1,0 +1,67 @@
+﻿{
+  "name": "PostLogix Heritage Trust: Data Set 10 Master Archive",
+  "title": "PostLogix Heritage Trust: Data Set 10 Master Archive",
+  "description": "Cryptographic attestation and forensic specifications for 5.2M unique mRNA sequences, transient OSKM epigenetic reset architectures with 3' UTR decay motifs, and LIP microfluidic hardware manifolds. Structured as high-integrity bioscience training data and BioIP under the DATA Foundation Proof-of-Creativity framework.",
+  "createdAt": "2026-07-05T17:50:18.765Z",
+  "creators": [
+    {
+      "name": "Bradley Jones",
+      "address": "0x4817E8ee5fdC2C2e7CfCd8D166fAd76A4c433394",
+      "contributionPercent": 100
+    }
+  ],
+  "image": "ipfs://bafybeic7w7w3x5v6yq7dataset10schematic/schematic.png",
+  "imageHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "media": [
+    {
+      "name": "Data Set 10 Forensic Master Archive",
+      "url": "ar://raw-dataset-10-forensic-payload",
+      "contentType": "application/json"
+    }
+  ],
+  "attributes": [
+    { "key": "AssetTypology", "value": "BioIP / Epigenetic mRNA Architecture & AI Training Dataset" },
+    { "key": "SequencesCount", "value": "5200000" },
+    { "key": "TargetNetwork", "value": "DATA Foundation Aeneid Testnet" },
+    { "key": "ChainID", "value": "1315" },
+    { "key": "RootIPAssetID", "value": "0x93762D496ffBae7aC9834047CB2C5A44958B7400" },
+    { "key": "SPGContract", "value": "0x4817E8ee5fdC2C2e7CfCd8D166fAd76A4c433394" },
+    { "key": "InvestigationRef", "value": "US-DOJ-OIG-2026-MASTER-B" },
+    { "key": "BatesRange", "value": "10-0000001-10-0259900" },
+    { "key": "NonCommercialLicenseTermsID", "value": "2054" },
+    { "key": "CommercialRoyaltyRate", "value": "5% (500 bips)" },
+    { "key": "SettlementAsset", "value": "DATA / WIP" }
+  ],
+  "forensicMethodologies": [
+    {
+      "domain": "I. The Infrastructure",
+      "scope": "Ghost Protocol Exfiltration Loop",
+      "findings": "Identification of digital exfiltration channels used to route LNP intellectual property offshore, evading public scientific registries and domestic regulatory oversight.",
+      "evidenceRef": "Image 1, Image 5"
+    },
+    {
+      "domain": "II. The Hardware",
+      "scope": "Microfluidic Manifold Serial 192-ZL-004-G",
+      "findings": "Recovery of synthesis hardware equipped with an unauthorized Lipid Injection Port (LIP) enabling continuous, microscopic in-line LNP encapsulation as a decentralized biologic printing press.",
+      "evidenceRef": "Image 7, Image 10"
+    },
+    {
+      "domain": "III. The Sequences",
+      "scope": "Synthetic mRNA Sequence LZ-Gamma (BIO-IPA-EFTA-2026-09G)",
+      "findings": "Bioinformatics proof of 1-methylpseudouridine (m1psi) modified nucleosides coding for transient OSKM factor expression, coupled with an engineered 3' UTR decay motif to ensure controlled, non-oncogenic epigenetic resetting.",
+      "evidenceRef": "Image 2, Image 6"
+    },
+    {
+      "domain": "IV. The Network",
+      "scope": "Patron Ledger Decryption",
+      "findings": "Decryption of the secure patron network identifying 58 private beneficiaries and funding sources sustaining the shadow life-extension apparatus.",
+      "evidenceRef": "Image 9"
+    },
+    {
+      "domain": "V. The Capital",
+      "scope": "Capital Manipulation Analysis",
+      "findings": "Documentation of $1.5 billion in obfuscated financial transactions deployed to manipulate the global biotechnology market and steer public grants away from life-extension applications.",
+      "evidenceRef": "Image 3"
+    }
+  ]
+}

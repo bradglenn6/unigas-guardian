@@ -1,0 +1,162 @@
+{
+  "ipId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+  "parentIpId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+  "licenseTermsId": "2808",
+  "commercialRevShareOnChainUnits": 10,
+  "heritageTrustTxHash": "0xe3b5395274f7cbed898ea8982014d103605df3ee808c2aa127b61a854317c430",
+  "latestDerivativeFlow": {
+    "mode": "unigas-relayer-verified",
+    "timestamp": "2026-10-27T11:58:24.469Z",
+    "chainId": 1315,
+    "parentIpId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+    "childIpId": "0x18b52cc23c93ad529659e9d95673c9d75f1beea8",
+    "licenseTermsId": "2808",
+    "commercialRevSharePercent": 10,
+    "licenseTokenId": "1",
+    "royaltyPolicy": "0xBe54FB168b3c982b7AaE60dB6CF75Bd8447b390E",
+    "currencyToken": "0x1514000000000000000000000000000000000000",
+    "royaltyPaidWip": "5",
+    "claimedWip": "0.5",
+    "heritageTrustTxHash": "0xe3b5395274f7cbed898ea8982014d103605df3ee808c2aa127b61a854317c430",
+    "transactions": {
+      "mintLicenseToken": {
+        "txHash": "0x7b0a184d9ad6d25bda6c2dacafad5edc0ce03f051591f922deb0a974a427bb84",
+        "blockNumber": "25050938",
+        "status": "success"
+      },
+      "registerDerivative": {
+        "txHash": "0x07b0de2996c72685f6b7e13dc1341ab17bd436240ca99c7ff7b8104f665e41af",
+        "blockNumber": "25050939",
+        "status": "success"
+      },
+      "payRoyaltyOnBehalf": {
+        "txHash": "0xcd8b8f80ae0f35e74b071f2b8af3778d6c73cdee28981937a308b5ebf6b71247",
+        "blockNumber": "25050940",
+        "status": "success"
+      },
+      "claimAllRevenue": {
+        "txHashes": [
+          "0xafcbb3bdfee2361ab0f3d931a9238c2ffc48736ea2fb78eea609efcfccad687a"
+        ],
+        "status": "success"
+      }
+    }
+  },
+  "updatedAt": "2026-10-27T11:58:24.483Z",
+  "derivativeRoyaltyFlows": [
+    {
+      "mode": "unigas-relayer-verified",
+      "timestamp": "2026-10-26T07:36:12.411Z",
+      "chainId": 1315,
+      "parentIpId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+      "childIpId": "0x4ae2cb58758669ccfa1b851a3ac0c6985a9083f1",
+      "licenseTermsId": "2808",
+      "commercialRevSharePercent": 10,
+      "licenseTokenId": "1",
+      "royaltyPolicy": "0xBe54FB168b3c982b7AaE60dB6CF75Bd8447b390E",
+      "currencyToken": "0x1514000000000000000000000000000000000000",
+      "royaltyPaidWip": "5",
+      "claimedWip": "0.5",
+      "heritageTrustTxHash": "0xe3b5395274f7cbed898ea8982014d103605df3ee808c2aa127b61a854317c430",
+      "transactions": {
+        "mintLicenseToken": {
+          "txHash": "0xa670edfd8b6bf7a1669fdcaa0966025bef79d79e9e31f023101206181fe86ae9",
+          "blockNumber": "25050938",
+          "status": "success"
+        },
+        "registerDerivative": {
+          "txHash": "0xa7db14f69e5d2033fb74fcd38bb614e09d0dcfdd6353497645cffcc09aaee8cc",
+          "blockNumber": "25050939",
+          "status": "success"
+        },
+        "payRoyaltyOnBehalf": {
+          "txHash": "0x0284319e738ba3cda99994afe81580a4eb0a38c0415a9e56d9c4b6b30c1c676e",
+          "blockNumber": "25050940",
+          "status": "success"
+        },
+        "claimAllRevenue": {
+          "txHashes": [
+            "0x2a95308ba26b142a35c86a92bd363d8572caf72e033d5aab9fbb8fabbfc1aafc"
+          ],
+          "status": "success"
+        }
+      }
+    },
+    {
+      "mode": "unigas-relayer-verified",
+      "timestamp": "2026-10-26T07:46:09.982Z",
+      "chainId": 1315,
+      "parentIpId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+      "childIpId": "0x11931d9b54bd6f9e97bab2803496153f6650d783",
+      "licenseTermsId": "2808",
+      "commercialRevSharePercent": 10,
+      "licenseTokenId": "1",
+      "royaltyPolicy": "0xBe54FB168b3c982b7AaE60dB6CF75Bd8447b390E",
+      "currencyToken": "0x1514000000000000000000000000000000000000",
+      "royaltyPaidWip": "5",
+      "claimedWip": "0.5",
+      "heritageTrustTxHash": "0xe3b5395274f7cbed898ea8982014d103605df3ee808c2aa127b61a854317c430",
+      "transactions": {
+        "mintLicenseToken": {
+          "txHash": "0x2456601ff415b8f83b4eee50e9224aa269146066aae082a1b1d2a9b4f5ec9adc",
+          "blockNumber": "25050938",
+          "status": "success"
+        },
+        "registerDerivative": {
+          "txHash": "0x278d187845d62c12d1bc5f8e023c17adbc45330d331e98372c70b3581dfd573a",
+          "blockNumber": "25050939",
+          "status": "success"
+        },
+        "payRoyaltyOnBehalf": {
+          "txHash": "0xe0e5fcf04ea4b7fdc9b0bbad8d87a66a5b3a56f2a9df6e091d66b6fb52d21c52",
+          "blockNumber": "25050940",
+          "status": "success"
+        },
+        "claimAllRevenue": {
+          "txHashes": [
+            "0x7edfd33775dd8a94f5fa5a943b7e27159c9377335c256bdcc950ea7173e9dc05"
+          ],
+          "status": "success"
+        }
+      }
+    },
+    {
+      "mode": "unigas-relayer-verified",
+      "timestamp": "2026-10-27T11:58:24.469Z",
+      "chainId": 1315,
+      "parentIpId": "0x93762D496ffBae7aC9834047CB2C5A44958B7400",
+      "childIpId": "0x18b52cc23c93ad529659e9d95673c9d75f1beea8",
+      "licenseTermsId": "2808",
+      "commercialRevSharePercent": 10,
+      "licenseTokenId": "1",
+      "royaltyPolicy": "0xBe54FB168b3c982b7AaE60dB6CF75Bd8447b390E",
+      "currencyToken": "0x1514000000000000000000000000000000000000",
+      "royaltyPaidWip": "5",
+      "claimedWip": "0.5",
+      "heritageTrustTxHash": "0xe3b5395274f7cbed898ea8982014d103605df3ee808c2aa127b61a854317c430",
+      "transactions": {
+        "mintLicenseToken": {
+          "txHash": "0x7b0a184d9ad6d25bda6c2dacafad5edc0ce03f051591f922deb0a974a427bb84",
+          "blockNumber": "25050938",
+          "status": "success"
+        },
+        "registerDerivative": {
+          "txHash": "0x07b0de2996c72685f6b7e13dc1341ab17bd436240ca99c7ff7b8104f665e41af",
+          "blockNumber": "25050939",
+          "status": "success"
+        },
+        "payRoyaltyOnBehalf": {
+          "txHash": "0xcd8b8f80ae0f35e74b071f2b8af3778d6c73cdee28981937a308b5ebf6b71247",
+          "blockNumber": "25050940",
+          "status": "success"
+        },
+        "claimAllRevenue": {
+          "txHashes": [
+            "0xafcbb3bdfee2361ab0f3d931a9238c2ffc48736ea2fb78eea609efcfccad687a"
+          ],
+          "status": "success"
+        }
+      }
+    }
+  ]
+}
