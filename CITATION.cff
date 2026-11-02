@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "UniGas Guardian: Universal Gasless Web3 Relay & Account Abstraction Guardrail Engine"
+message: "If you use this software in your research or architecture, please cite it using the metadata below."
+type: software
+authors:
+  - given-names: Bradley
+    family-names: Jones
+    email: dev@zrolabz.com
+    affiliation: ZeroLabz
+    orcid: "0000-0002-5071-9051"
+repository-code: "https://github.com/bradglenn6/unigas-guardian"
+url: "https://zrolabz.com"
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-11-02"
+keywords:
+  - account-abstraction
+  - erc-4337
+  - paymaster
+  - web3
+  - zerolabz
